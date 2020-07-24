@@ -1,4 +1,4 @@
-local toxicity = {"LOL","REKT","MAD?!","AHAHAHAHA","😂"} -- Add things you want to be spammed on the screen in here
+local toxicity = {"use","romans","tm?!","destroyer","😂"} -- Add things you want to be spammed on the screen in here
 -- Put messages in quotes, and separate with commas
  
 while wait(0.1) do
